@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My personal website is 🌐 Personal Website: https://bowenxieoregon.github.io
+🌐 Personal Website: https://bowenxieoregon.github.io
 
 
 <!--
